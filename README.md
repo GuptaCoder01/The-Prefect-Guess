@@ -2,6 +2,8 @@
 
 Here's a simple example project using Prefect that guesses or predicts a random number. The idea is to create a flow that:
 
->Generates a random number. 
->Takes user input to guess the number. 
+>Generates a random number.
+>
+>Takes user input to guess the number.
+
 >Checks if the guess is correct and provides feedback. 
